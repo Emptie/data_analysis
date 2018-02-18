@@ -15,5 +15,4 @@ plt.axis([0, 1100, 0, 1100000])
 
 # 设置刻度标记的大小
 plt.tick_params(axis='both', which='major', labelsize=14)
-
 plt.show()
